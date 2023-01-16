@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+I'm a Java developer aspiring to make people's lives better with easy-to-use tools. <br/>
+
+#### Stack 
+`Java` `Spring Framework` `Spring Boot` `Spring Data` `Hibernate` `JDBC` `PostgreSQL` `Docker` `JUnit` `Mockito` `Postman` <br/>
+
+#### Reach out
+[LinkedIn](https://www.linkedin.com/in/polina-malakovich/) | [Telegram](https://t.me/a_misnomer) | polinamalakovich@gmail.com
 
 <!--
 **PolinaMalakovich/PolinaMalakovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
