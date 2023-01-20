@@ -1,10 +1,9 @@
 ## Hi there 👋 
-I'm a Java developer aspiring to make people's lives better with easy-to-use tools. <br/>
+I'm a Java developer aspiring to make people's lives better with easy-to-use tools. Here are technologies I use: 
 
-### Stack 
 `Java` `Spring Framework` `Spring Boot` `Spring Data` `Hibernate` `JDBC` `PostgreSQL` `Docker` `JUnit` `Mockito` `Postman` <br/>
 
-### Socials
+### Let's connect 
 [![Gmail][gmail_badge]][gmail_link]
 [![Telegram][telegram_badge]][telegram_link]
 [![LinkedIn][linkedin_badge]][linkedin_link]
