@@ -18,8 +18,8 @@ I'm a Java developer aspiring to make people's lives better with easy-to-use too
 [gmail_link]: mailto:polinamalakovich@gmail.com?subject=Let's%20connect!
 [gmail_badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [codewars_link]: https://www.codewars.com/users/a_misnomer
-[codewars_badge]: https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey
+[codewars_badge]: https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white
 [hackerrank_link]: https://www.hackerrank.com/polinamalakovich
 [hackerrank_badge]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 [leetcode_link]: https://leetcode.com/polinamalakovich/
-[leetcode_badge]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
+[leetcode_badge]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white
