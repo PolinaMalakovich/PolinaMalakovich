@@ -4,10 +4,13 @@ I'm a Java developer aspiring to make people's lives better with easy-to-use too
 ### Stack 
 `Java` `Spring Framework` `Spring Boot` `Spring Data` `Hibernate` `JDBC` `PostgreSQL` `Docker` `JUnit` `Mockito` `Postman` <br/>
 
-### Reach out
-[![LinkedIn][linkedin_badge]][linkedin_link] 
-[![Telegram][telegram_badge]][telegram_link]
+### Socials
 [![Gmail][gmail_badge]][gmail_link]
+[![Telegram][telegram_badge]][telegram_link]
+[![LinkedIn][linkedin_badge]][linkedin_link]
+[![Codewars][codewars_badge]][codewars_link]
+[![HackerRank][hackerrank_badge]][hackerrank_link]
+[![LeetCode][leetcode_badge]][leetcode_link]
 
 [linkedin_link]: https://www.linkedin.com/in/polina-malakovich/
 [linkedin_badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
@@ -15,3 +18,9 @@ I'm a Java developer aspiring to make people's lives better with easy-to-use too
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [gmail_link]: mailto:polinamalakovich@gmail.com?subject=Let's%20connect!
 [gmail_badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars_link]: https://www.codewars.com/users/a_misnomer
+[codewars_badge]: https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey
+[hackerrank_link]: https://www.hackerrank.com/polinamalakovich
+[hackerrank_badge]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+[leetcode_link]: https://leetcode.com/polinamalakovich/
+[leetcode_badge]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
